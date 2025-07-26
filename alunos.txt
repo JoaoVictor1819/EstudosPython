@@ -1,0 +1,1 @@
+Nome: Victor, idade: 18, Notas: [6.5], Média: 6.5, Situação: RecuperaçãoNome: bruna, idade: 17, Notas: [9.0], Média: 9.0, Situação: Aprovado

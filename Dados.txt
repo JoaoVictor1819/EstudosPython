@@ -1,0 +1,2 @@
+Olá, este é meu promeiro arquivo de texto.
+Armazenando dados com Python é facil!
